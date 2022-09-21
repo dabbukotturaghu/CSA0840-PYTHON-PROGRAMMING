@@ -10,7 +10,7 @@ Day 1
 8. valid number
 9. max of guests
 10. frequency to character
-Day 2
+ Day 2
 1. stair case
 2. leap year
 3. max no.of words to count
