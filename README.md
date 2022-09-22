@@ -22,3 +22,15 @@ Day 2
 8. given an input string s and a pattern 
 9. four seasons in an year
 10. common in two strings
+
+Day 3
+1. share trading 
+2. complete project in a week 
+3. array of integers 
+4. add binary
+5. mirror images 
+6. max no.of steps 
+7. permutations
+8. anagram 
+9. pattern
+10. operations
