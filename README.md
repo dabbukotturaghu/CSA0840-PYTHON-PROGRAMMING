@@ -34,3 +34,15 @@ Day 3
 8. anagram 
 9. pattern
 10. operations
+
+Day 4
+1.arrays
+2.staff users
+3.smaller number than current number
+4.palindrome 
+5.array of integers 
+6.function declaration 
+7.count of vowels 
+8.roman to int
+9.seasons 
+10.scarmble string
