@@ -46,3 +46,15 @@ Day 4
 8.roman to int
 9.seasons 
 10.scarmble string
+
+Day 5
+1.length of the last word 
+2.salary for new year
+3.perfect square number
+4.product is divisible by sum 
+5.peak element 
+6.triangular element 
+7.longest substring 
+8.valid chessboard
+9.shuffle 
+10.reversing words in a string
